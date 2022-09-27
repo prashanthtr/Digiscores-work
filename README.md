@@ -17,6 +17,7 @@ In role as leading Postdoctoral Research Fellow in Creative AI, I was involved i
 4. Pathways: Creative Software support  
 	> [Pathways](https://github.com/DigiScore/DejanaFellowship)
 
-
+5. Toy Robots for music powered movement
+	>[Braitenberg](https://github.com/DigiScore/braitenbergMusoBot1)
 
 

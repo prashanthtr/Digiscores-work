@@ -3,7 +3,7 @@
 
 The Digital Score project (DigiScore) is funded by the European Research Council (ERC) to explore the effect of digital scores on creativity and musicianship.
 
-In role as Postdoctoral Research Fellow in Creative AI, I was involved in leading the development of multi-modal communications interfaces for human-data interaction in following projects: 
+In role as leading Postdoctoral Research Fellow in Creative AI, I was involved in leading the development of multi-modal communications interfaces for human-data interaction in following projects: 
 
 1. Human-AI Boxing Matches (Under development) 
 	> [BoxingMatch](https://github.com/DigiScore/boxing_match)
